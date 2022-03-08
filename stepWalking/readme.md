@@ -11,6 +11,6 @@ Output: 1
 `
 
 `
-Input: 3\
+Input: 3
 Output: 3
 `
