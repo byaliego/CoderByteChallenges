@@ -6,6 +6,6 @@ Have the function PalindromeTwo(str) take the str parameter being passed and ret
 Examples
 
 Input: "Noel - sees Leon" 
-Output: true
+Output: true </br>
 Input: "A war at Tarawa!" 
 Output: true
