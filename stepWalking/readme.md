@@ -6,11 +6,11 @@ Have the function *StepWalking(num)* take the **num** parameter being passed whi
 ## Examples
 
 `
-Input: 1 </br>
+Input: 1\
 Output: 1 
 `
 
 `
-Input: 3 </br>
+Input: 3\
 Output: 3
 `
