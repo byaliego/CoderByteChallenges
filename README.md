@@ -1,2 +1,2 @@
 # CoderByteChallenges
-I save my CoderByteChallenges here under this repo
+I save my CoderByteChallenge solutions here under this repo.
